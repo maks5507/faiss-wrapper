@@ -1,0 +1,2 @@
+../*.py
+../faiss_wrapper/*.py
